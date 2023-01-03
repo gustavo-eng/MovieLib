@@ -1,0 +1,17 @@
+.movie-page {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: blueviolet;
+}
+
+
+.info {
+    background-color: red;
+    display: flex;
+    align-self: flex-start;
+    width: 350px;
+}

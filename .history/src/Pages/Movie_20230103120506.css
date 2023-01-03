@@ -1,0 +1,43 @@
+.movie-page {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 2rem auto; 
+}
+
+
+.movie-page svg {
+    font-size: 1.7rem;
+    color: yellow;
+}
+
+
+.movie-page .movie-card {
+    padding: 2px;
+    text-align: center;
+}
+
+
+.movie-page .movie-card img,
+.movie-page .movie-card h2, 
+.movie-page .movie-card p {
+    margin-top: 2px;
+    margin-bottom: 1rem;
+}
+
+
+.movie-page .movie-card p { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+}
+
+
+
+
+
+
+
+

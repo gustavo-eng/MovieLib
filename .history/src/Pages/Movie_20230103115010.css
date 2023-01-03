@@ -1,0 +1,9 @@
+.movie-page {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-items: baseline;
+    padding-left: 300px;
+    padding-right: 300px;
+    background-color: blueviolet;
+}

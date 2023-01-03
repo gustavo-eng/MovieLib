@@ -1,0 +1,22 @@
+.movie-page {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    max-width: 600px;
+    margin: 2rem auto; 
+}
+
+
+.movie-page svg {
+    font-size: 1.7rem;
+    color: yellow;
+}
+
+
+.movie-page .movie-card {
+    text-align: end;
+}
+
+
+
+

@@ -1,0 +1,74 @@
+.container .title {
+    color: white;
+    font-size: 3px;
+    text-align: center;
+    margin:  2rem 0 1rem;
+}
+
+.title .query-text {
+    color: rgb(215, 66, 66);
+}
+
+
+.movies-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 2rem;
+    max-width: 1180px;
+    margin: 0 auto;
+}
+
+
+.movies-container div {
+    width: 30%;
+    color: white;
+    margin-bottom: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgb(67, 67, 67);
+    border-radius: 3.8px;
+    padding: 1.89px;
+}
+
+
+.movies-container div img {
+    max-width: 100%;
+}
+
+.movies-container div img,
+.movies-container div h2,
+.movies-container div p {
+    margin-bottom: 9px;
+}
+
+
+.movies-container div svg {
+    color: yellow;
+}
+
+.movies-container div a {
+    display: flex;
+    background-color: rgb(200, 38, 38);
+    color: rgb(252, 252, 252);
+    border-radius: 5px;
+    font-size: 30px;
+    border-width: 0px;
+    cursor: pointer;
+    align-items: center;
+    transition: .8s;
+}
+
+#navbar form button :hover {
+    background-color: rgb(101, 7, 7);
+    color: rgb(174, 174, 174);
+    border-radius: 5px;
+}
+
+
+
+
+
+
+

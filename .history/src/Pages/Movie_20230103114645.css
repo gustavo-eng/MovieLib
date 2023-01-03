@@ -1,0 +1,10 @@
+.movie-page {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    /* max-width: 600px;
+    margin: 2rem auto; */
+    align-items: center;
+    padding: 30px 300px;
+    background-color: blueviolet;
+}
