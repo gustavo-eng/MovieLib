@@ -15,7 +15,8 @@ dist-ssr
 *.local
 
 *.env
-.env
+.env 
+C:\Users\diasg\Desktop\netflix\...movies_lib\.env
 
 # Editor directories and files
 .vscode/*
