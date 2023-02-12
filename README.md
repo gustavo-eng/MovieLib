@@ -3,7 +3,7 @@ Projeto de busca e consulta de filmes desenvolvido sob a didática de um exemplo
 
 
 
-#3 Sobre o projeto 
+# 3 Sobre o projeto 
 
   Este projeto permite buscar os melhores filmes e também realizar consultas, bem como ler as informações 
 como descrição, decuração, orçamento e receita.
