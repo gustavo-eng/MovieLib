@@ -11,9 +11,15 @@ como descrição, decuração, orçamento e receita.
   O desenvolvimento do projeto abordou conhecimentos de frontend e utilização de API. A API consumido 
   foi a TMDB. 
   
-  O link do projeto desenvolvido e utilizado como inspiração:  https://www.youtube.com/watch?v=XqxUHVVO7-U
+ #### O link do projeto desenvolvido e utilizado como inspiração:  https://www.youtube.com/watch?v=XqxUHVVO7-U
+
+ 
+#### Vídeo demonstrativo do projeto: https://drive.google.com/file/d/1rUMmcB5ObFn0ePHU1BhnIUGyUcq3scR3/view?usp=share_link
 
 
+```javascript
+  const gitHub_Profile = () => console.log('https://github.com/gustavo-eng')
+```
 
 ## Tecnologias utilizadas 
 
@@ -43,6 +49,5 @@ como descrição, decuração, orçamento e receita.
 ### Detalhe do Filme escolhido:
 
 ![image](https://user-images.githubusercontent.com/75026003/210397836-002a5878-cbc6-46db-93dc-5830210a131c.png)
-
 
 
